@@ -1,0 +1,41 @@
+"product_id","product_name","category","price","quantity","manufacturer"
+11, Smartwatch X2, Wearables, 149.99, 35, WristSmart
+12, Smartwatch Y3, Wearables, 199.99, 30, ChronoTech
+13, Camera C1, Cameras, 499.99, 12, PhotoGenic
+14, Camera D2, Cameras, 599.99, 10, CaptureCorp
+15, Camera E3, Cameras, 699.99, 8, ShutterPro
+16, Headphones H1, Audio, 49.99, 60, SoundWave
+17, Headphones I2, Audio, 79.99, 50, AudioMakers
+18, Headphones J3, Audio, 99.99, 45, HearClear
+19, Speaker S1, Audio, 29.99, 70, LoudSound
+20, Speaker T2, Audio, 49.99, 60, BoomBox
+21, Speaker U3, Audio, 69.99, 55, SoundBlast
+22, Monitor M1, Monitors, 149.99, 25, ViewPro
+23, Monitor N2, Monitors, 199.99, 20, ScreenTech
+24, Monitor O3, Monitors, 249.99, 18, DisplayMax
+25, Keyboard K1, Accessories, 29.99, 50, KeyMaster
+26, Keyboard L2, Accessories, 39.99, 45, TypeTech
+27, Keyboard M3, Accessories, 49.99, 40, InputPro
+28, Mouse M1, Accessories, 19.99, 60, ClickFast
+29, Mouse N2, Accessories, 29.99, 55, ScrollTech
+30, Mouse O3, Accessories, 39.99, 50, CursorPro
+31, Router R1, Networking, 49.99, 30, NetGear
+32, Router S2, Networking, 69.99, 25, LinkWave
+33, Router T3, Networking, 89.99, 20, SpeedNet
+34, External HDD H1, Storage, 59.99, 40, DriveSafe
+35, External HDD I2, Storage, 79.99, 35, StoreWell
+36, External HDD J3, Storage, 99.99, 30, MemoryMax
+37, USB Drive U1, Storage, 9.99, 100, FlashIt
+38, USB Drive V2, Storage, 14.99, 90, QuickStore
+39, USB Drive W3, Storage, 19.99, 80, DataKeep
+40, Printer P1, Printers, 89.99, 20, PrintPro
+41, Printer Q2, Printers, 129.99, 18, InkMaster
+42, Printer R3, Printers, 169.99, 15, PagePrint
+43, Projector P1, Projectors, 299.99, 10, VisionCast
+44, Projector Q2, Projectors, 399.99, 8, DisplayBeam
+45, Projector R3, Projectors, 499.99, 5, ProjectionPro
+46, Smart Home Hub H1, Smart Home, 49.99, 25, HomeConnect
+47, Smart Home Hub I2, Smart Home, 69.99, 20, ControlHub
+48, Smart Home Hub J3, Smart Home, 89.99, 15, SmartHouse
+49, VR Headset V1, VR, 199.99, 10, VirtualReal
+50, VR Headset W2, VR, 299.99, 8, ImmersiveTech
